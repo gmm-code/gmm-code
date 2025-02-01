@@ -1,30 +1,32 @@
-## Hi there 👋
+# Hey there! 👋  
 
-I'm Guilherme Miranda de Morais, a passionate front-end developer currently learning HTML and CSS, and planning to dive into JavaScript and React next. 🚀
+I'm **Guilherme Miranda de Morais**, a front-end developer in training. Currently diving into **HTML & CSS**, and soon I'll jump into **JavaScript & React**. 🚀  
 
-### 🌱 Learning and Interests
-- **Currently Learning**: HTML and CSS
-- **Next Steps**: JavaScript and React
-- **Interests**: Front-end projects, UI components, layouts, responsiveness, and open-source projects.
+## 🌱 Learning & Interests  
+- 📖 **Currently Learning:** HTML & CSS  
+- 🎯 **Next Steps:** JavaScript & React  
+- 🎨 **Interests:** UI components, layouts, responsiveness & open-source  
 
-### 👯 Collaboration
-- Looking to collaborate on: 
-  - Front-end projects
-  - UI components
-  - Layouts
-  - Responsiveness
-  - Open-source projects
+## 👯 Let’s Build Something Cool!  
+I’m open to collaborating on:  
+✅ Front-end projects  
+✅ UI/UX improvements  
+✅ Responsive design  
+✅ Open-source contributions  
 
-### 🤔 Seeking Help
-- Staying updated with new web development trends
-- Working with APIs and integrations
-- Improving code organization
+## 🤔 Always Looking to Learn More About  
+- The latest web development trends  
+- Working with APIs  
+- Code structure & best practices  
 
-### 💬 Ask Me About
-- My journey into front-end development
-- Best practices for HTML/CSS
-- Learning new web technologies
+## 💬 Ask Me About  
+- My front-end journey  
+- HTML/CSS best practices  
+- Learning new web technologies  
 
-### 📫 How to Reach Me
-- Email: gmm.works@proton.me
-- [LinkedIn](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
+## 📫 Connect With Me  
+📧 **Email:** gmm.works@proton.me  
+🔗**[LinkedIn(https://www.linkedin.com/in/guilherme-miranda-de-morais/)**
+
+Always up for a good chat and new challenges. Let’s grow together! 🚀
+- 
