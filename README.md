@@ -9,6 +9,3 @@
 💬 Ask me about my journey into front-end development, best practices for HTML/CSS, or how I approach learning new web technologies. I'm happy to share my experience and insights!
 
 📫 How to reach me: gmm.works@proton.me or [Linkedin](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
-
-
-⚡ Fun fact: Eu adoro aprender novas tecnologias, e sou fascinado por como o design e a programação podem se unir para criar experiências incríveis na web!
