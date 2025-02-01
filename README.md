@@ -26,7 +26,7 @@ I’m open to collaborating on:
 
 ## 📫 Connect With Me  
 📧 **Email:** gmm.works@proton.me  
-🔗**[LinkedIn](https://www.linkedin.com/in/guilherme-miranda-de-morais/)**
+🔗[**LinkedIn**](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
 
 Always up for a good chat and new challenges. Let’s grow together! 🚀
 - 
