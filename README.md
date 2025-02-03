@@ -29,7 +29,7 @@ I’m open to collaborating on:
 📧 gmm.works@proton.me  
 👔 [LinkedIn](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
 
-<div>
+<div align="center">
     <blockquote style="font-size: 1.2em; font-style: italic; color: #555; border-left: 4px solid #6c757d; padding-left: 20px; margin: 20px; background-color: #f9f9f9;">
     "Then I thought that tight boots are one of the greatest blessings on earth, because they make your feet hurt and it's a pleasure to take them off."
   </blockquote>
