@@ -1,4 +1,4 @@
-<div align=center> style="max-width: 800px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
+<div align="center" style="max-width: 800px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
 
   <!-- Texto Original: Cabeçalho e Introdução -->
   <div style="text-align: center; padding: 20px 0;">
