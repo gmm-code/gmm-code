@@ -1,7 +1,7 @@
-<div align="center" style="max-width: 800px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
+<div style="max-width: 800px; margin: 0 auto; font-family: 'Segoe UI', sans-serif; line-height: 1.6;">
 
   <!-- Texto Original: Cabeçalho e Introdução -->
-  <div style="text-align: center; padding: 20px 0;">
+  <div align="center> style="text-align: center; padding: 20px 0;">
     <h1>Hey there! 👋</h1>
     <p>
       I'm <strong>Guilherme Miranda de Morais</strong>, a front-end developer in training. Currently diving into <strong>HTML & CSS</strong>, and soon I'll jump into <strong>JavaScript & React</strong>. 🚀
