@@ -64,18 +64,13 @@
   </div>
 
   <!-- Citação -->
-  <div style="margin: 30px 0; padding: 20px; background-color: #f9f9f9; border-left: 4px solid #6c757d;">
+  <div align="center" style="margin: 30px 0; padding: 20px; background-color: #f9f9f9; border-left: 4px solid #6c757d;">
     <blockquote style="font-size: 1.2em; font-style: italic; color: #555; margin: 0;">
       "Then I thought that tight boots are one of the greatest blessings on earth, because they make your feet hurt and it's a pleasure to take them off."
     </blockquote>
     <p style="font-weight: bold; font-size: 1.1em; text-align: right; margin: 10px 0 0 0;">
       — Machado de Assis, <i>Memórias Póstumas de Brás Cubas Rio de Janeiro: Typografia. Nacional</i> (1881)
     </p>
-  </div>
-
-  <!-- Rodapé -->
-  <div style="text-align: center; font-size: 14px; padding: 10px 0;">
-    <p style="margin: 0;">© 2025 gmm-code. All rights reserved.</p>
   </div>
 
 </div>
