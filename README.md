@@ -56,7 +56,7 @@
 
   <!-- Seção Connect With Me -->
   <div align="center" style="padding: 20px 0; border-top: 1px solid #eee; text-align: center;">
-    <h2 style="font-size: 18px; margin-bottom: 10px;">📫 Connect With Me</h2>
+    <h2 style="font-size: 18px; margin-bottom: 10px;"> Connect With Me</h2>
     <p style="font-size: 16px; margin: 0;">
       📧 <a href="mailto:gmm.works@proton.me" style="text-decoration: none;">gmm.works@proton.me</a> &nbsp;&bull;&nbsp;
       👔 <a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" style="text-decoration: none;">LinkedIn</a>
