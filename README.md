@@ -15,7 +15,7 @@
 
   <!-- Seção Learning & Interests -->
   <div style="padding: 20px 0; border-top: 1px solid #eee;">
-    <h2>🌱 Learning & Interests</h2>
+    <div algn="center"> <h2>🌱 Learning & Interests</h2> </div>
     <ul style="list-style: none; padding: 0; font-size: 16px;">
       <li>📖 <strong>Currently Learning:</strong> HTML & CSS</li>
       <li>🎯 <strong>Next Steps:</strong> JavaScript & React</li>
