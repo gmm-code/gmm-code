@@ -36,7 +36,7 @@
 
   <!-- Seção Always Looking to Learn More About -->
   <div style="padding: 20px 0; border-top: 1px solid #eee;">
-    <h2 style="font-size: 18px; margin-bottom: 10px;">🤔 Always Looking to Learn More About</h2>
+    <div align="center" <h2 style="font-size: 18px; margin-bottom: 10px;">🤔 Always Looking to Learn More About</h2> </div>
     <ul style="list-style: none; padding: 0; font-size: 16px;">
       <li>- The latest web development trends</li>
       <li>- Working with APIs</li>
@@ -46,7 +46,7 @@
 
   <!-- Seção Ask Me About -->
   <div style="padding: 20px 0; border-top: 1px solid #eee;">
-    <h2 style="font-size: 18px; margin-bottom: 10px;">💬 Ask Me About</h2>
+    <div align="center> <h2 style="font-size: 18px; margin-bottom: 10px;">💬 Ask Me About</h2> </div>
     <ul style="list-style: none; padding: 0; font-size: 16px;">
       <li>- My front-end journey</li>
       <li>- HTML/CSS best practices</li>
