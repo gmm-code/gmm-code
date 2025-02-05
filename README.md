@@ -57,20 +57,20 @@
     </div>
     <!-- Conecte-se comigo -->
     <div style="padding: 20px 0; border-top: 1px solid #eee; text-align: center;">
-    <h2 style="font-size: 18px; margin-bottom: 10px;">📫 Connect With Me</h2>
-    <p style="font-size: 16px; margin: 0;">
-    📧 <a href="mailto:gmm.works@proton.me" style="text-decoration: none;">gmm.works@proton.me</a> &nbsp;&bull;&nbsp;
-    👔 <a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" style="text-decoration: none;">LinkedIn</a>
-    </p>
+        <h2 style="font-size: 18px; margin-bottom: 10px;">📫 Connect With Me</h2>
+        <p style="font-size: 16px; margin: 0;">
+            📧 <a href="mailto:gmm.works@proton.me" style="text-decoration: none;">gmm.works@proton.me</a> &nbsp;&bull;&nbsp;
+            👔 <a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" style="text-decoration: none;">LinkedIn</a>
+        </p>
     </div>
     <!-- Citação -->
-    <div style="margin: 30px 0; padding: 20px; background-color: #f9f9f9; border-left: 4px solid #6c757d;">
-    <blockquote style="font-size: 1.2em; font-style: italic; color: #555; margin: 0;">
-    "Then I thought that tight boots are one of the greatest blessings on earth, because they make your feet hurt and it's a pleasure to take them off."
-    </blockquote>
-    <p style="font-weight: bold; font-size: 1.1em; text-align: center; margin: 10px 0 0 0;">
-    — Machado de Assis, <i>Memórias Póstumas de Brás Cubas</i> (1881)
-    </p>
+    <div align="center" style="margin: 30px 0; padding: 20px; background-color: #f9f9f9; border-left: 4px solid #6c757d;">
+        <blockquote style="font-size: 1.2em; font-style: italic; color: #555; margin: 0;">
+            "Then I thought that tight boots are one of the greatest blessings on earth, because they make your feet hurt and it's a pleasure to take them off."
+        </blockquote>
+        <p style="font-weight: bold; font-size: 1.1em; text-align: center; margin: 10px 0 0 0;">
+            — Machado de Assis, <i>Memórias Póstumas de Brás Cubas</i> (1881)
+        </p>
     </div>
 
 </div>
