@@ -9,8 +9,11 @@
     </div>
     <!-- GitHub Stats Badge -->
     <div align="center" style="padding: 10px 0;">
-        <p style="margin: 0; font-size: 14px;">
+        <blockquote>
             "I can do all things through Christ who strengthens me."
+        </blockquote>
+        <p>
+            - Philippians 4:13
         </p>
         <img src="https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=default"
         alt="GitHub Stats"
