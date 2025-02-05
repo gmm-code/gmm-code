@@ -7,6 +7,7 @@
             <strong>HTML & CSS</strong>, and soon I'll jump into <strong>JavaScript & React</strong>. 🚀
         </p>
     </div>
+    <hr>
     <!-- GitHub Stats Badge -->
     <div align="center" style="padding: 10px 0;">
         <blockquote>
