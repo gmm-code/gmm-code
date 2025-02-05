@@ -8,7 +8,7 @@
         </p>
     </div>
     <!-- GitHub Stats Badge -->
-    <div style="text-align: center; padding: 10px 0;">
+    <div align="center" style="padding: 10px 0;">
         <p style="margin: 0; font-size: 14px;">
             "I can do all things through Christ who strengthens me."
         </p>
