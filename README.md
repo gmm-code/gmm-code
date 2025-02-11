@@ -1,66 +1,46 @@
-# Guilherme Miranda de Morais
+# 👨‍💻 Guilherme Miranda de Morais  
 
-> "I can do all things through Christ who strengthens me." - Philippians 4:13
-
-Front-end developer in training, focused on creating intuitive and responsive user interfaces. Currently mastering HTML & CSS fundamentals, with JavaScript and React on the horizon. 🚀
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=transparent)](https://github.com/gmm-code)
-
-## Tech Journey 🎯
-
-- **Current Focus:** HTML & CSS
-- **Next Steps:** JavaScript & React
-- **Core Interests:** UI Components | Responsive Design | Open Source
-
-## Areas of Development 💡
-
-```markdown
-🎨 UI/UX Development
-└── Component Design
-└── Layout Optimization
-└── Responsive Implementation
-└── Cross-browser Compatibility
-```
-
-## Learning Path 📚
-
-I'm constantly expanding my knowledge in:
-
-- Modern web development practices
-- RESTful API integration
-- Clean code architecture
-- Performance optimization
-
-## Open for Collaboration 🤝
-
-I'm particularly interested in projects involving:
-
-- Front-end development challenges
-- UI/UX improvements
-- Responsive design implementation
-- Open-source contributions
-
-## Knowledge Exchange 💬
-
-Let's discuss:
-- Front-end development journey
-- HTML/CSS best practices
-- Modern web technologies
-- Learning strategies
-
-## Connect with Me 🌐
-
-[![Email](https://img.shields.io/badge/Email-gmm.works%40proton.me-blue?style=flat-square&logo=protonmail)](mailto:gmm.works@proton.me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme_Miranda-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
+> *"I can do all things through Christ who strengthens me."*  
+> — Philippians 4:13
 
 ---
-
 <div align="center">
 
-<quoteblock>
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
-    "Then I thought that tight boots are one of the greatest blessings on earth, because they make your feet hurt and it's a pleasure to take them off."
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=radical)
 
-    — Machado de Assis, Memórias Póstumas de Brás Cubas (1881)
-</quoteblock>
+</div>
 
+<div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
+  <h2 style="font-size: 2rem; color: #333;">Front-End Developer in Training 🚀</h2>
+  <p style="font-size: 1.1rem; color: #555; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+    Focado em criar interfaces de usuário intuitivas e responsivas. Atualmente dominando HTML & CSS, com JavaScript e React a caminho.
+  </p>
+  
+<div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
+  <h2 style="font-size: 2rem; color: #333;">Front-End Developer in Training 🚀</h2>
+  <p style="font-size: 1.1rem; color: #555; max-width: 600px; margin: 0 auto; line-height: 1.6;">
+    Focado em criar interfaces de usuário intuitivas e responsivas. Atualmente dominando HTML & CSS, com JavaScript e React a caminho.
+  </p>
+  
+  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 15px;">
+    <a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Miranda-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+    </a>
+    <a href="mailto:gmm.works@proton.me">
+      <img src="https://img.shields.io/badge/Email-gmm.works%40proton.me-blue?style=flat&logo=protonmail" alt="Email Badge"/>
+    </a>
+    <a href="https://github.com/gmm-code">
+      <img src="https://img.shields.io/badge/GitHub-gmm--code-darkgray?style=flat&logo=github" alt="GitHub Badge"/>
+    </a>
+  </div>
+</div>
+<div align="center">
+  <h3>Let's Build Something Great Together!</h3>
 </div>
