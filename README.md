@@ -29,16 +29,16 @@
     Focado em criar interfaces de usuário intuitivas e responsivas. Atualmente dominando HTML & CSS, com JavaScript e React a caminho.
   </p>
   
-  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 15px;">
-    <a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" target="_blank">
+  <div>
+    <p><a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Miranda-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
-    </a>
-    <a href="mailto:gmm.works@proton.me">
+    </a></p>
+    <p><a href="mailto:gmm.works@proton.me">
       <img src="https://img.shields.io/badge/Email-gmm.works%40proton.me-blue?style=flat&logo=protonmail" alt="Email Badge"/>
-    </a>
-    <a href="https://github.com/gmm-code">
+    </a></p>
+    <p><a href="https://github.com/gmm-code">
       <img src="https://img.shields.io/badge/GitHub-gmm--code-darkgray?style=flat&logo=github" alt="GitHub Badge"/>
-    </a>
+    </a></p>
   </div>
 </div>
 <div align="center">
