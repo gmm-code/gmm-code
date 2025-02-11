@@ -57,8 +57,9 @@ Let's discuss:
 <div align="center">
 
 <quoteblock>
+
     "Then I thought that tight boots are one of the greatest blessings on earth, because they make your feet hurt and it's a pleasure to take them off."
-    
+
     — Machado de Assis, Memórias Póstumas de Brás Cubas (1881)
 </quoteblock>
 
