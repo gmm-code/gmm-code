@@ -20,13 +20,7 @@
 <div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
   <h2 style="font-size: 2rem; color: #333;">Front-End Developer in Training 🚀</h2>
   <p style="font-size: 1.1rem; color: #555; max-width: 600px; margin: 0 auto; line-height: 1.6;">
-    Focado em criar interfaces de usuário intuitivas e responsivas. Atualmente dominando HTML & CSS, com JavaScript e React a caminho.
-  </p>
-  
-<div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
-  <h2 style="font-size: 2rem; color: #333;">Front-End Developer in Training 🚀</h2>
-  <p style="font-size: 1.1rem; color: #555; max-width: 600px; margin: 0 auto; line-height: 1.6;">
-    Focado em criar interfaces de usuário intuitivas e responsivas. Atualmente dominando HTML & CSS, com JavaScript e React a caminho.
+    Passionate about crafting sleek, intuitive, and responsive user interfaces. Currently nailing HTML & CSS, with JavaScript and React coming in hot.
   </p>
   
   <div>
