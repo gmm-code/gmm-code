@@ -13,9 +13,9 @@
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VSCode-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=radical)
-
 </div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=radical)
 
 <div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
   <h2 style="font-size: 2rem; color: #333;">Front-End Developer in Training 🚀</h2>
