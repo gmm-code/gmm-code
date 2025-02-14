@@ -28,7 +28,7 @@ My full name is **Guilherme Miranda de Morais**. I'm a Front-End developer.
   
   <div>
     <p><a href="https://www.linkedin.com/in/guilherme-miranda-de-morais/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Miranda-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
+      <img src="https://img.shields.io/badge/LinkedIn-Guilherme M.-blue?style=flat&logo=linkedin" alt="LinkedIn Badge"/>
     </a></p>
     <p><a href="mailto:gmm.works@proton.me">
       <img src="https://img.shields.io/badge/Email-gmm.works%40proton.me-blue?style=flat&logo=protonmail" alt="Email Badge"/>
