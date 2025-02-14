@@ -1,4 +1,6 @@
-# Hi👋, i'm Guilherme Miranda de Morais
+# Hi 👋, I'm Guilherme
+
+My full name is **Guilherme Miranda de Morais**. I'm a Front-End developer.
 
 > *"I can do all things through Christ who strengthens me."*  
 > — Philippians 4:13
