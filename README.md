@@ -1,4 +1,4 @@
-# Guilherme Miranda de Morais
+# Hi👋, i'm Guilherme Miranda de Morais
 
 > *"I can do all things through Christ who strengthens me."*  
 > — Philippians 4:13
