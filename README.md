@@ -1,11 +1,10 @@
-# Hi 👋, I'm Guilherme
-
-My full name is **Guilherme Miranda de Morais**. I'm a Python Student.
+# Hey, I'm Guilherme 👨‍💻 | Python & AI Enthusiast
+Passionate about coding and AI. Always learning, always building.
 
 > *"I can do all things through Christ who strengthens me."*  
 > — Philippians 4:13
-
 ---
+
 <div>
 
 ## **Python & AI/ML Enthusiast** 🤖🐍
@@ -23,7 +22,7 @@ Passionate about Artificial Intelligence, Machine Learning, and Python developme
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### **Tools**  
+### **Development Tools**  
 
 ![Git](https://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
@@ -33,7 +32,7 @@ Passionate about Artificial Intelligence, Machine Learning, and Python developme
 
 <div>
 
-## **Contact with Me**
+## **Feel free to connect with me! Whether for projects, ideas, or just tech talk.**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:gmm.works@proton.me)
