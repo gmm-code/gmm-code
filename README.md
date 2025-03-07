@@ -8,7 +8,7 @@ My full name is **Guilherme Miranda de Morais**. I'm a Python Student.
 ---
 <div>
 
-### **Python & AI/ML Enthusiast** 🤖🐍
+## **Python & AI/ML Enthusiast** 🤖🐍
 
 <div>
 
@@ -30,10 +30,10 @@ Passionate about Artificial Intelligence, Machine Learning, and Python developme
 ![WSL](https://img.shields.io/badge/-WSL-0CC53E?style=flat&logo=linux&logoColor=white)
 ![Termux](https://img.shields.io/badge/-Termux-000000?style=flat&logo=termux&logoColor=white)
 
-## **Status**
-
 
 <div>
+
+## **Contact with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:gmm.works@proton.me)
