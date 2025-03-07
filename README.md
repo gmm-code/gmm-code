@@ -22,7 +22,7 @@ My full name is **Guilherme Miranda de Morais**. I'm a Python Student.
 ![WSL](https://img.shields.io/badge/-WSL-0078D4?style=flat&logo=WSL&logoColor=white)
 ![Termux](https://img.shields.io/badge/-Termux-0078D4?style=flat&logo=Termux&logoColor=white)
 
-## Stats
+## Status
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=radical)
 
@@ -32,7 +32,7 @@ My full name is **Guilherme Miranda de Morais**. I'm a Python Student.
 
 <div>
     
-Passionate about crafting sleek, intuitive, and responsive user interfaces. Currently nailing HTML & CSS, with JavaScript and React coming in hot.
+Passionate about crafting sleek, intuitive, and responsive user interftreamaces. Currently nailing HTML & CSS, with JavaScript and React coming in hot.
     
 </div>
 <div align="center">
