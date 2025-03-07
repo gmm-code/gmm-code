@@ -1,7 +1,8 @@
 # Hey, I'm Guilherme 👨‍💻
 Passionate about coding and AI. Always learning, always building.
 
-> *"I can do all things through Christ who strengthens me."*  
+---
+> *"I can do all things through Christ who strengthens me."*
 > — Philippians 4:13
 ---
 
@@ -32,7 +33,9 @@ Passionate about Artificial Intelligence, Machine Learning, and Python developme
 
 <div>
 
-## **Feel free to connect with me! Whether for projects, ideas, or just tech talk.**
+---
+
+### **Feel free to talk to me about anything!**
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
 [![ProtonMail](https://img.shields.io/badge/-ProtonMail-8B89CC?style=flat&logo=protonmail&logoColor=white)](mailto:gmm.works@proton.me)
@@ -40,7 +43,7 @@ Passionate about Artificial Intelligence, Machine Learning, and Python developme
 
 </div>
 
-## Let's Build Something Great Together!
+### Let's Build Something Great Together!
 
 <div>
 
