@@ -1,4 +1,4 @@
-# Hey, I'm Guilherme 👨‍💻 | Python & AI Enthusiast
+# Hey, I'm Guilherme 👨‍💻
 Passionate about coding and AI. Always learning, always building.
 
 > *"I can do all things through Christ who strengthens me."*  
