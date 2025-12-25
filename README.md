@@ -56,12 +56,3 @@ Always learning. Always breaking things (ethically). Always improving.
 - Building a solid technical foundation for investigative work  
 
 ---
-
-## 📫 Contact  
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-miranda-de-morais/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:guilhermemirandademorais4@gmail.com)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gmm-code&show_icons=true&theme=radical)
